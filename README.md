@@ -1,4 +1,4 @@
-# Sales Analysis over a Regions
+# Sales Analysis over Regions
 This Power BI Dashboard provides a comprehensive analysis of sales performance over Each Region, allowing users to track key metrics  and make data-driven decisions.
 ## Key Features
  *   Interactive sales ,Profit and quantity performance visuals
